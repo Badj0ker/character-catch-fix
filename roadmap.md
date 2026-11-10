@@ -3,4 +3,4 @@
 - [x] Deliver a transparent PNG without a background.
 - [x] Create a transparent no-bite idle sprite sheet using the unchanged official mascot.
 - [x] Remove all idle bobbers and extend lines downward, keeping transparency and mascot unchanged.
-- [ ] Leviathan layered breach animation pack (whale sheet, splashes, layers, banner, atlas JSON, sounds)
+- [x] Leviathan layered breach animation pack (whale sheet, splashes, layers, banner, atlas JSON, sounds)
